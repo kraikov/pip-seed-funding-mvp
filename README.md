@@ -25,9 +25,11 @@ The mechanisms of PIPs are quite simple:
 
 To help tie the PIP mechanism together, let’s go through a simple example.  Alice, Bob, and Carol decide to pool their assets to fund Project XYZ and in return will receive XYZ tokens.  Alice sends 200,000 DAI, Bob sends 300,000 DAI, and Carol sends 500,000 DAI for a total of 1,000,000 DAI in the PIP smart contract.  In this example, assume that the interest rate (APR) is 10%.  Also assume that the interest is paid daily and the project’s tokens are returned daily (in reality, this would happen per block).  Finally, assume the price of XYZ token is equivalent to $0.5 USD and that DAI is equivalent to $1.00 USD.  The diagram below shows how this would play out. 
 
-^^^^^^^^^**Diagram needs to change since it’s not pooled together**^^^^^^^^^
-^^^^^^^ **Diagram image insert Krasimir** ^^^^^
+### Fund and refund sequence diagrams. Initiated by the Patron at any time.
+![fund-refund-diagram](https://github.com/kraikov/pip-seed-funding-mvp/blob/master/docs/fund-refund-diagram.png)
  
+ ### Withdraw Interest and Tokens sequence diagrams. Initiated by the funded Project and the Patrons at any time.
+![interest-tokens-withdraw-diagram](https://github.com/kraikov/pip-seed-funding-mvp/blob/master/docs/interest-token-withdraw-diagram.png)
 
 # PIP Seed Funding Benefits and Limitations
 
