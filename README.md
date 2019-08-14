@@ -1,6 +1,8 @@
 # pip-seed-funding-mvp
 Public Interest Project, or PIP - a new on-chain seed funding mechanism.
 
+The below is a summary of the PIP mechanism.  To read the full paper, click **here** (add link when ready)
+
 # Introduction
 The Initial Coin Offering (ICO) is a popular funding method for crypto projects to raise capital.  In an ICO, crypto projects sell their native tokens in exchange for Ether (or other tokens) to investors.  Although ICOs can be incredibly helpful in funding innovation, they have many structural problems which were magnified as the popularity of ICOs grew during the 2017 crypto bull market.  
 
@@ -20,8 +22,10 @@ The mechanisms of PIPs are quite simple **Krasimir to help revise this section**
 -	The smart contract will send back an equivalent amount of the project’s native token to the patron based on the interested yielded from that individual patron’s staked assets.
 -	The token project (or anyone else) can create a market on Uniswap for the token to create a pool of liquidity for patrons to trade with. This price discovery would result in a market rate for the token to derive the amount of tokens necessary to send back to the PIP patrons.  
 
-To help tie the PIP mechanism together, let’s go through a simple example.  Alice, Bob, and Carol decide to pool their assets to fund Project XYZ and in return will receive XYZ tokens.  Alice sends 200,000 DAI, Bob sends 300,000 DAI, and Carol sends 500,000 DAI for a total of 1,000,000 DAI in the PIP smart contract.  In this example, assume that the interest rate (APR) is 10%.  Also assume that the interest is paid daily and the project’s tokens are returned daily (in reality, this would happen per block).  Finally, assume the price of XYZ token is equivalent to $0.5 USD and that DAI is equivalent to $1.00 USD.  The diagram below shows how this would play out. **Diagram needs to change since it’s not pooled together**
-**Diagram image insert Krasimir** 
+To help tie the PIP mechanism together, let’s go through a simple example.  Alice, Bob, and Carol decide to pool their assets to fund Project XYZ and in return will receive XYZ tokens.  Alice sends 200,000 DAI, Bob sends 300,000 DAI, and Carol sends 500,000 DAI for a total of 1,000,000 DAI in the PIP smart contract.  In this example, assume that the interest rate (APR) is 10%.  Also assume that the interest is paid daily and the project’s tokens are returned daily (in reality, this would happen per block).  Finally, assume the price of XYZ token is equivalent to $0.5 USD and that DAI is equivalent to $1.00 USD.  The diagram below shows how this would play out. 
+
+^^^^^^^^^**Diagram needs to change since it’s not pooled together**^^^^^^^^^
+^^^^^^^ **Diagram image insert Krasimir** ^^^^^
  
 
 # PIP Seed Funding Benefits and Limitations
