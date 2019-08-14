@@ -12,7 +12,7 @@ The Public Interest Project (PIP) is a fully onchain seed funding mechanism whic
 
 # How it Works**Krasimir to help revise this section**:
 
-PIPs fund projects in a way that, assuming the PIP smart contracts are secure, are risk free to the patron. This is an extremely beneficial property of PIPs given that the risk of losing invested capital is highest during the earliest phases of a project, such as a seed round.  If the team proves themselves to the crypto community during the PIP phase, they can choose to conduct a follow on funding via a DAICO.  
+PIPs fund projects in a way that, assuming the PIP smart contracts are secure, are risk free to the patron. This is an extremely beneficial property of PIPs given that the risk of losing invested capital is highest during the earliest phases of a project, such as a seed round.  If the team proves themselves to the crypto community during the PIP phase, they can choose to conduct a follow on funding via a [DAICO](https://ethresear.ch/t/explanation-of-daicos/465).  
 
 The PIP is simply an addition to ideas already being discussed and implemented in the crypto community such as by [PoolTogether](https://github.com/pooltogether/pooltogether-contracts/tree/master/contracts), [ZeframLou](https://github.com/ZeframLou/pooled-cdai), [PaulRBerg](https://github.com/ethereum/EIPs/issues/2212), [rDai](https://twitter.com/pet3rpan_/status/1161376583950540800?s=09), and probably many others out there who have similar ideas.
 
