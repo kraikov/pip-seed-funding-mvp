@@ -1,7 +1,9 @@
 # The Public Interest Project
 Public Interest Project, or PIP - a new on-chain seed funding mechanism.
 
-The below is a summary of the PIP mechanism.  To read the full paper, click [here.](https://file.globalupload.io/8PP1B7xkHK.pdf)
+The below is a summary of the PIP mechanism.  To read the full paper, click [here.](https://file.globalupload.io/8PP1B7xkHK.pdf) 
+
+The full paper goes into more detail on the state of the ICO and IEO markets, the shortcomings of the ICO and IEO, the customization of PIPs, and gives more depth overall on this topic. We recommend reading it for the extra context.
 
 # Introduction
 As ICOs grew in popularity during the 2017 crypto bull market, the structural problems of ICOs were magnified and abused.  The main criticism of ICOs is that funds are received in one lump sum.  This makes it convenient for scams to occur and removes the concept of milestone-based funding.  In traditional financing, teams raise small seed funds and then raise larger funds through Series A, B, C and so on. Subsequent fundraises only occur if teams achieve milestones and build investor confidence.  With the popularization of ICOs, the concept of seed rounds for crypto projects financed by crypto participants have been largely overlooked.
