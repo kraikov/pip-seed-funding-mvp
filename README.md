@@ -4,9 +4,7 @@ Public Interest Project, or PIP - a new on-chain seed funding mechanism.
 The below is a summary of the PIP mechanism.  To read the full paper, click **here** (add link when ready)
 
 # Introduction
-The Initial Coin Offering (ICO) is a popular funding method for crypto projects to raise capital.  In an ICO, crypto projects sell their native tokens in exchange for Ether (or other tokens) to investors.  Although ICOs can be incredibly helpful in funding innovation, they have many structural problems which were magnified as the popularity of ICOs grew during the 2017 crypto bull market.  
-
-The main criticism of ICOs is that funds are received in one lump sum.  This makes it convenient for scams to occur and removes the concept of milestone-based funding.  In traditional financing, teams raise small seed funds and then raise larger funds through Series A, B, C and so on. Subsequent fundraises only occur if teams achieve milestones and build investor confidence.  With the popularization of ICOs, the concept of seed rounds for crypto projects financed by crypto participants have been largely overlooked.
+As ICOs grew in popularity during the 2017 crypto bull market, the structural problems of ICOs were magnified and abused.  The main criticism of ICOs is that funds are received in one lump sum.  This makes it convenient for scams to occur and removes the concept of milestone-based funding.  In traditional financing, teams raise small seed funds and then raise larger funds through Series A, B, C and so on. Subsequent fundraises only occur if teams achieve milestones and build investor confidence.  With the popularization of ICOs, the concept of seed rounds for crypto projects financed by crypto participants have been largely overlooked.
 
 The Public Interest Project (PIP) is a fully onchain seed funding mechanism which solves the many issues with ICOs while removing the risk of losing the patron’s principle, assuming the smart contract is correctly built. Contributors to PIPs will be referred to as patrons because it is important to make the distinction that patrons are not investors.
 
