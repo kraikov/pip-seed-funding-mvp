@@ -1,7 +1,7 @@
 # The Public Interest Project
 Public Interest Project, or PIP - a new on-chain seed funding mechanism.
 
-The below is a summary of the PIP mechanism.  To read the full paper, click [here.](https://file.globalupload.io/8PP1B7xkHK.pdf) 
+The below is a summary of the PIP mechanism.  To read the full paper, click [here.](http://vixra.org/pdf/1909.0512v1.pdf) 
 
 The full paper goes into more detail on the state of the ICO and IEO markets, the shortcomings of the ICO and IEO, the customization of PIPs, and gives more depth overall on this topic. We recommend reading it for the extra context.
 
